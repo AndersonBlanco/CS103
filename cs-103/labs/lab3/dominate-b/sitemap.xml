@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset schemaLocation="https://www/sitemaps.org/schemas/sitemap/0.9">
+<!-- URL set content here (ie url tag groups)-->
+<!-- <url/> tag cokmponent tenplate:
+
+<url>
+<loc></loc>
+<lasmod></lasmod>
+<changefreq></changefreq>
+<priority></priority>
+</url>
+
+ -->
+
+
+ <url>
+ <contentType>htmlFiles</contentType>
+<loc>cs-103/labs/lab3</loc>
+<lasmod>2026-02-17</lasmod>
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+
+</urlset> 
