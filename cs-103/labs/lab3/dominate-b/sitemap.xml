@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset schemaLocation="https://www/sitemaps.org/schemas/sitemap/0.9">
+
+<!--These are comments for myself, for my own usage. 
+Additionally, this method of commenting is from html itself and is the only way to validly comment. 
+Also, the you are allowed cusotm tag naming in xml as long as it follows the standard closing tag pattern. 
+The menaing of these cusotm tags is given by the parser (ie, javascript that parses the xml with fetch()) that may have a specific schema.
+I chose to create a custom tag name (contentType) to satisfy the requirement to add one more tag to the assignment. 
+This custom tag name specifies the type files found / belonging inside the location (ie, <loc>)
+ -->
 <!-- URL set content here (ie url tag groups)-->
 <!-- <url/> tag cokmponent tenplate:
-
 <url>
 <loc></loc>
 <lasmod></lasmod>
 <changefreq></changefreq>
 <priority></priority>
 </url>
-
  -->
-
-
  <url>
  <contentType>htmlFiles</contentType>
 <loc>cs-103/labs/lab3</loc>
@@ -20,5 +24,4 @@
 <changefreq>weekly</changefreq>
 <priority>0.7</priority>
 </url>
-
 </urlset> 
