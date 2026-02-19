@@ -1,0 +1,54 @@
+*{
+    margin: 0; 
+    box-sizing: border-box; 
+}
+
+
+div{
+    width: 1000px; 
+    margin: auto; 
+
+    background-color: red;
+    text-align: center;
+}
+
+header{
+    background-color: green; 
+}
+
+header h1{ 
+    color: cyan;
+}
+
+
+nav{
+    background-color: blue; 
+
+}
+
+nav ul{
+    padding-left: 0; 
+}
+
+nav li{ 
+    display: inline;
+    margin: 2px; 
+
+}
+main{
+     background-color:blueviolet; 
+}
+
+
+main p {
+    color:brown; 
+    font-weight: 700; 
+}
+
+footer{
+    background-color: blue;
+}
+
+footer { 
+    color: white; 
+}
