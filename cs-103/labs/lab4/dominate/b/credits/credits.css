@@ -72,3 +72,15 @@ footer{
 h4{
     font-size: 20px; 
 }
+
+.creds{
+    flex-direction: column;
+    text-align: le;
+}
+
+.creds a{
+    background-color: transparent;
+    padding: 0px; 
+    text-decoration: underline;
+
+}
