@@ -1,0 +1,85 @@
+body{
+     text-align:center;
+      display: block; 
+      background-color: #F4F0E4;
+      color: #EC8F8D; 
+      /*sets the padding from the left and right walls of the container */
+
+
+    }
+
+    img{ 
+        /*sets the maximujm allowed width fro the image to expand to */ 
+        max-width: 400px;
+    }
+
+    ul{
+        /*this property deterines the character or figure used to index items in the list and distinguish their placements. Setting it to nonw removes this special index pointer character*/ 
+        list-style-type: none;
+    }
+        /*table styling */
+
+
+       nav li{
+        display: inline;
+        /* set the specific margin soley along the horizontal between elements in a row*/ 
+        margin-inline: 10px 
+        }
+
+
+        nav{
+            height: fit-content; 
+            padding-block: 10px; 
+            margin-block: 10px; 
+        }
+    nav a { 
+        /*targets the decorations of text elements. Underline among others like das/strike through ara vailable Setting it to none allows for a cleaner appearance and industry standrad looks */ 
+        text-decoration: none;
+        background-color: #537D96; 
+        color: #EC8F8D; 
+        padding: 10px;
+                border: solid #a05e5d 1px; 
+    }
+
+
+    th, td{
+        height: 20px; 
+        width: auto; 
+        padding: 20px; 
+
+    }
+
+
+    div{ 
+        /*alalows the container and children to inherit flex context for layout manipulation*/ 
+        display: flex; 
+        /*aligns content inisde to center aloong the horiozntal*/
+        justify-content: center;
+    }
+
+
+    footer{
+        background-color: #44A194;
+        /*setting this poisiton to relative allopws this element to be position relative to its neighbors, allowing it to be pushed down or up on scroll*/
+        position: relative; 
+        bottom: 0; 
+
+        height: auto; 
+        width: auto; 
+
+        /* assignes padding along the vertical axis, from the ceiling and floor of the inner walls surfaces of the container*/ 
+        padding-block: 20px; 
+
+        /*stes the margin gap relative from the top surface of the container and outwards*/ 
+        margin-top: 24px; 
+    }
+
+    nav{
+        background-color: #44A194; 
+    }
+
+
+    table{
+        border: black solid 1px; 
+    }
+ 
