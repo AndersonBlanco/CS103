@@ -1,0 +1,130 @@
+*{
+    margin: 0%; 
+    box-sizing: border-box; 
+}
+
+
+div{
+    width: 1000px; 
+    margin: auto; 
+
+    background-color: red;
+    text-align: center;
+}
+
+header{
+    background-color: green; 
+    width: 100%; 
+}
+
+header h1{ 
+    color: cyan;
+}
+
+
+nav{
+    background-color: blue; 
+    width: 30%; 
+    padding: 0 3%; 
+    text-align: center;
+
+
+}
+
+nav ul{
+    padding-left: 0%; 
+}
+
+nav li{ 
+    display: block;
+    margin: 2%; 
+    border: 1px solid white; 
+    text-align: left;
+    margin-bottom: 4vh;
+
+}
+main{
+     background-color:blueviolet; 
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     width: 70%;
+     align-items: center; 
+
+
+}
+
+
+main p {
+    color:brown; 
+    font-weight: 700; 
+}
+
+footer{
+    background-color: blue;
+    position: fixed;
+    bottom: 0%; 
+    width: inherit;
+}
+
+footer { 
+    color: white; 
+}
+
+img{ 
+    height: 50vh; 
+    width: 40vw
+}
+
+
+
+#page-wrapper{
+    width: 80vw;
+    height: 100vh;
+     margin: auto; 
+     background-color:blueviolet;
+     text-align: center;
+}
+
+#container{
+    display: flex; 
+    flex-direction: row; 
+
+}
+
+
+
+@media screen and (max-width: 900px){
+    #container{
+        display: flex; 
+        flex-direction: column; 
+    }
+
+
+    nav{
+        width: 100%; 
+        text-align:center; 
+        padding: 0% 3%; 
+
+    }
+
+    main{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+         justify-self: space-around;
+        text-align: center;
+
+         
+    }
+
+    #page-wrapper{
+        width: auto;
+    }
+
+    footer{ 
+        width: 100%;
+    }
+
+    
+}
