@@ -72,8 +72,8 @@ footer {
 }
 
 img{ 
-    height: 50vh; 
-    width: 40vw
+    height: 40vh; 
+    width: 30vw
 }
 
 
@@ -126,5 +126,9 @@ img{
         width: 100%;
     }
 
+    img{ 
+        height: 25vh; 
+        width: 20vw; 
+    }
     
 }

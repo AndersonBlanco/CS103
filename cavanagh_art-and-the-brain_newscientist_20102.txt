@@ -1,0 +1,91 @@
+ 
+    Windows to the mind 
+    When it comes to understanding the brain’s visual system, artists are way ahead of neuroscientists, says Jessica Griggs 
+    Since to the canvas, mind humankind and artists the have first senses put played to brush create with sublime atmospheres and odd impressions. It is only recently, with a blossoming understanding of the way the brain deconstructs images, that neuroscientists and psychologists have finally begun to understand how these tricks work. Here we take you on a grand tour of the burgeoning field of neuroaesthetics. 
+    You’ll find out how Claude Monet bypasses your consciousness and plugs straight into your emotions (page 37), how Salvador Dali triggers neural conflicts (page 38 ) and how Renaissance art and trompe l’oeil fool us into believing the impossible (pages 35 and 36). On page 39 we turn the spotlight on the artist’s mind, revealing how Wassily Kandinsky drew on his synaesthesia to produce some of the most celebrated artworks of the 20th century. 
+     
+       MoDULaR BRaINS  
+       
+     
+    PERSPECTIVE is one of the strongest depth cues out there. The British artist Patrick Hughes uses this to advantage in his “reverspective” artworks, painted on wedges or truncated pyramids which project forward. What’s cunning about these works is that the parts of the canvas closest to the observer are depicted in perspective, as though they are the farthest away. Despite the physical structure coming out of the wall, when we look at them straight on we get the impression that they recede into it. In the work shown above, for example, the Henry Moore sculpture at the end of the left hand corridor is physically closer to the viewer than the Picasso and Van Gogh portraits in the centre. 
+    Thomas Papathomas of the Laboratory of Vision 
+    Research at Rutgers University in New Jersey has experimented with Hughes’s reverspectives, locating the viewing distance at which people stop seeing the illusion and see the structure as it really is (Perspective, vol 31, p 521). He found the illusion is strongest when the works are viewed from afar – we are so familiar with rectangles drawn in 
+    Patrick Hughes’s works play with the brain’s 3D perception 
+    perspective that almost everyone sees the corridors as receding. But as you walk towards the work, other aspects of depth perception come into play until they dominate the carefully crafted perspective cues and the illusion falls away, revealing the true protruding structure. These aspects include our stereo vision and motion parallax (when we move in front of a stationary object, the near parts of the object move further across our retina than the more distant parts). 
+    Papathomas says this shows that the brain 
+    processes the different kinds of visual information in distinct regions. “These kinds of effects tell us that our brain is modular,” he says. There’s the linear perspective “module” that says that the painting is concave, and the stereoptic and the motion-parallax modules that say it is convex. Having multiple modules means that the brain can take an average of their outputs to discern the most accurate interpretation, he says. The system works unless we encounter something created deliberately to confuse it. 
+    MYSTIFYIng MIRRoRS AnD UnSeTTLIng SHADoWS 
+    IT IS a joyous occasion – the newborn Virgin Mary gets her first bath, surrounded by attentive nursemaids. Her mother, exhausted from the birth, reclines on a golden dais in an alcove. All are bathed in beautiful light that floods in from all directions. But hang on a second. Where is all this light coming from, when there is only one arched opening and a small window to illuminate the alcove in the plaza? And why do the people in the foreground cast deeper shadows than those further back? Although nothing seems amiss at first glance, the more you look at this painting by Fra Carnevale, the more incongruities you find. “You couldn’t recreate the Carnevale scene with all the spotlights in Hollywood,” says Patrick Cavanagh, a neuroscientist at Paris Descartes University in France and at the Vision Science Laboratory of Harvard University. 
+    Yet we rarely notice these 
+    discrepancies because the brain’s intuitive understanding of light and reflection is so poor. Indeed, Cavanagh’s studies have found that when the brain analyses a shadow, it doesn’t notice discrepancies in the direction of light, the shape of the object or the distance between an object and its shadow 
+    (Journal of Experimental Psychology: Human Perception and Performance, vol 15, p 3). 
+    Artists like Carnevale cashed in on this trait to create atmospheric scenes that couldn’t possibly exist. Reflections in mirrors are equally challenging to the brain. When Marco Bertamini at the University of Liverpool, UK, asked people to look at Diego Velázquez’s Rokeby Venus, in which a cherub holds up 
+    The Birth of the Virgin by 
+    Fra Carnevale fools us into believing the impossible 
+    a mirror to Venus as the goddess lies with her back to us, the majority assumed Venus was admiring herself. Yet viewers can see Venus’s face reflected in their direction, making it physically impossible that she is admiring herself (Perception, vol 32, p 593). 
+    This inability to gauge mirror images, so exploited by artists, is reflected in real life, too: Bertamini has shown that despite having mirrors all around us, we are appalling at predicting what should be visible in them (Cognition, vol 98, p 85). This inability was particularly troubling for one Francisco Scaramanga, James Bond’s arch enemy in The Man with the Golden Gun, whose confusion in a hall of mirrors cost him his life. So what are the benefits of a brain that works to a different set of rules from the world we live in? According to Cavanagh, it’s all about speed. You couldn’t do a proper analysis of all the laws of physics in the tenth of a second it takes your visual system to form an image, he says, so we evolved a small set of rules that can be computed rapidly without requiring a large proportion of our brain. 
+     
+       It may look like a 3D cabinet, but this work was painted on a flat canvas UnCoVeRIng TRoMPe L’oeIL  
+       
+     
+    PLInY the elder recounts the story of two legendary painters, Zeuxis and Parrhasius, who were trying to decide which of them was the more accomplished artist. They brought two covered canvases to show each other. First Zeuxis revealed his – a bunch of grapes so lusciously lifelike that birds swooped down to peck at the canvas. Confident of 
+    Renaissance, when painters mastered the art of perspective drawing, that the genre flourished. examples include the image of a little boy climbing out of a painting’s frame, called Escaping Criticism, and the work above, known as the Cabinet of Curiosities, thought to have been painted by the Flemish artist Domenico Remps in the 1690s. 
+    “ Trompe l’oeil didn’t flourish until the Renaissance, when painters mastered the art of perspective” 
+    victory, Zeuxis leaned over to pull the cover off Parrhasius’s offering, only to find that the covering itself was the painting. Having been fooled by his rival’s handiwork, Zeuxis admitted defeat. 
+    examples of this “trick of the eye” 
+    art, or trompe l’oeil as it commonly known, date back to graeco-Roman times, but it wasn’t until the 
+    This painting works because the objects are life-size and depicted in hyper-realistic detail, and also because Remps laid a set of decoys that hoodwink our visual system into perceiving depth, says Priscilla Heard, a neuropsychologist at the University of the West of england in Bristol, UK. Misleading cues include the way the wood grain shrinks the 
+    further into the cabinet you look, and the way shadows fall on the sill and the paper drawing. The most important visual cue, however, is the strange shape of the canvas – it follows the outline of the open cabinet. “We’re all very familiar with cabinets with rectangular doors, so when we see this, we have either got to see it as an oddly-shaped thing on a wall or as a familiar object that is sticking out,” Heard says. All of these factors combine to fool the brain into perceiving a scene that may well be physically impossible. Heard and the late Richard gregory, professor emeritus of neuropsychology at the University of Bristol, once tried to place a bottle of wine, a wine glass and a lump of cheese in a 3D frame to mimic a trompe l’oeil of the same image. “We could never find the right objects because the dimensions in the painting are distorted,” says Heard. 
+    Monet’s Water Lilies excites the emotional regions of the brain 
+     
+       eMoTIonAL IMPReSSIonS  
+       
+     
+    The Impressionist movement arguably produced some of our best-loved paintings. a study of more than 90,000 people in the Uk, aged 13 to 90, found that they preferred Impressionist art over cubism, Renaissance or Japanese styles (British Journal of Psychology, vol 100, p 501). But what is it about this movement, led by Claude Monet, that we find so irresistible? Harvard neuroscientist Patrick Cavanagh puts it down to the way these ambiguous images force the brain to create a more personal interpretation of the work. The blurry shapes and splashes of colour mean that people have to draw on their own memories to fill in the missing visual details, he says. 
+    So each painting is interpreted slightly differently by each individual, making the experience more visceral. “our visual system reflexively fills in expressions and mood… going deeper into our mental state than any fully explicit painting could.” These paintings may also be attractive because their blurred forms speak directly to the amygdala, a brain region involved in the processing of emotions. The amygdala acts like an early warning system, on the lookout for unfocused threats lurking in our peripheral vision, and it tends to react more strongly to things we haven’t yet picked up consciously. In 2003, a study by Patrik Vuilleumier, a neurologist at the University of Geneva in Switzerland, found 
+    ” The crude brush strokes delay our conscious response 
+    and engage the brain’s emotional centres” 
+    that the amygdala responds more enthusiastically to fuzzy faces than to sharp versions of the same image. Cavanagh says this indicates that blurred images seem to have privileged access to the subconscious. Indeed the brain regions typically associated with conscious image-processing were noticeably subdued when subjects looked at the blurred images (Nature Neuroscience, vol 6, p 624). Impressionist paintings may exploit the same effect. “The texture and crude dabs and strokes of Impressionist art may be enough to delay our conscious response to the content of the painting, allowing the emotional centres to fire more frequently,” says Cavanagh. 
+     
+       DALI’S DUALISM  
+       
+     
+    WHaT do you see when you look at the painting above? a semi-naked woman in the foreground? Check. a crumbling building in the background? Check. Nothing too unusual there. But what about the turbaned figures under the archway? Look now, and you might see them talking to two other characters in black and white. But look again, and they may instead be admiring a bust of the philosopher Voltaire. 
+    This is Salvador Dali’s Slave Market with the 
+    Disappearing Bust of Voltaire, which includes an illusion that lets observers perceive two possible images. Just in case you can’t see it, the rear arch of the building becomes the forehead of Voltaire. The heads of the black-and-white figures are his eyes, and their clothes his cheeks and chin. 
+    Susana Martinez-Conde, a visual neuroscientist at the Barrow Neurological Institute in Phoenix, 
+    arizona, explains that the ambiguity arises because our brain’s perception of the world is a rough approximation of reality. “our brain has to fit within our cranium so it cannot process everything that is out there,” she says. So the brain takes short cuts, sampling only the most significant parts of the scene, such as the contours, the edges and the corners of objects. The rest is typically built around our memories of past experience and our expectations of what should be there. 
+    This is particularly noticeable when the images 
+    are vague, says Martinez-Conde. Compare the level of detail in the non-ambiguous figure of the woman on the left, who is richly depicted from the creases of her turban to the tendrils of her hair, with that of Voltaire, whose ears are missing and whose mouth cannot be made out. Similarly, the hands and necks 
+    are missing from the black-and-white characters. “There is a lot of information which needs to be filled in, and the brain can fill it in in a number of different ways,” she explains. The brain’s expectations often feed into the visual system, determining how these brain regions fill in the missing details and group different parts of the image. It’s the same reason that trompe l’oeil works (page 36), and it means your previous experiences might determine whether you see the figures or Voltaire’s face first. 
+    But why does the painting seem to flip between 
+    the two interpretations at random? Previous fMRI brain scans have suggested that two separate pools of neurons code each of the possible interpretations 
+    (Proceedings of the Royal Society B, vol 265, 
+    p 2427). This led andrew Parker and kristine krug at the University of oxford to hypothesise that we 
+     
+       This Dali painting forces the brain to fill in the missing details under the arch  
+       
+     
+    see one interpretation when the corresponding set of neurons fires more strongly than the set representing the other image. Neural responses fluctuate, however, so eventually the other pool of neurons will gain the upper hand. “The flip occurs when one of these two almost warring populations of neurons, for reasons probably quite random, becomes more active,” says Parker. He has tested this theory in monkeys using a similar illusion 
+    (Philosophical Transactions of the Royal Society B, 
+    vol 357, p 1053). 
+    Why would the human mind have developed 
+    this strange trait? “We evolved to make sense of partial visual details and to make out a coherent picture even in poor lighting,” says Martinez-Conde. “Illusions are a by-product of this. They represent the dissociation between objective reality and subjective perception.” 
+     
+       exTRASenSoRY ConneCTIonS  
+       
+     
+    LeTTeRS, words, numbers, sounds, touch, pain and smell all trigger flashes of colour in Carol Steen’s mind. The new York-based artist first discovered she could paint her synaesthetic visions after a visit to her acupuncturist. “each time a needle went in a colour flashed in front of my eyes,” she recalls. “When all the needles were in it was like watching a movie. I rushed home and realised I could recall enough to paint a part of what I had seen.” other synaesthetic artists include David Hockney and Wassily Kandinsky, who painted the piece below, entitled Blue. There is still some speculation over whether Kandinsky actually had synaesthesia or was simply influenced by reports of the phenomenon in other people. But to Christopher Tyler of the Smith-Kettlewell Brain Imaging Center in San Francisco, who has analysed Kandinsky’s work, it is obvious (Journal 
+    of the History of Neuroscience, vol 12, 
+    p 223). “It’s very explicit in his work and his writings. He went to a performance of Wagner’s music and then wrote about how vivid the visual impressions of the horns were and the colour that the music evoked in his mind. That’s synaesthesia,” he says. Steen agrees: “I saw a sphere like 
+    Kandinksy exploited his synaesthetic experiences in paintings such as Blue 
+    the one in Kandinsky’s Blue in one of my acupuncture sessions. Since it is really hard to explain your visions to someone, I assume Kandinsky was a synaesthete.” The striking colour contrast with the red dot is also familiar to her. These experiences are probably due to extra connections between the auditory and visual cortex, says Jack Cowan, a mathematical neuroscientist at the University of Chicago. He thinks the additional flow of information into the visual cortex overloads its normal inhibitory mechanisms, allowing spontaneous waves of activity that would normally be eliminated to propagate through the brain. These signals may represent shape or colour. Since the brain can’t tell whether a signal was generated within the brain or externally, synaesthetes see the shapes as if they came from the eye. Steen, Kandinsky and Hockney join a long line of synaesthetic poets, authors and composers. But are synaesthetes naturally more creative? Jamie Ward at the University of Sussex in Brighton, UK, found that people with the condition were more likely to be engaged with the arts than non-synaesthetes, whether through pursuing a creative hobby like painting or, more passively, through visiting art galleries, for example (Journal 
+    of British Psychology, 
+     
+       
+     
+    vol 99, p 127). 
+    But while synaesthetes 
+    also tended to score higher on some measures of creativity, those that performed best in these tests were no more likely to take up an artistic hobby than those who scored worst. This suggests synaesthetes don’t take to art simply because they’re good at it. on balance, Ward thinks people with synaesthesia put brush to canvas simply because they want to express their strange experiences. n 
+    Jessica Griggs is the careers editor of New Scientist  
+  

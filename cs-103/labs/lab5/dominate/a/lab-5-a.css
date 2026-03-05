@@ -1,0 +1,62 @@
+*{
+    margin: 0%; 
+    box-sizing: border-box; 
+}
+
+
+div{
+    width: 100vw; 
+    margin: auto; 
+    height: 100vh;
+    background-color: red;
+    text-align: center;
+}
+
+header{
+    background-color: green; 
+}
+
+header h1{ 
+    color: cyan;
+}
+
+
+nav{
+    background-color: blue; 
+
+}
+
+nav ul{
+    padding-left: 0%; 
+}
+
+nav li{ 
+    display: inline;
+    margin: 2%; 
+
+}
+main{
+     background-color:blueviolet; 
+
+     /*inherit sthe height of the parent tag (div, which is set to 100vh, therefor so is this tag property here*/ 
+     height: inherit; 
+}
+
+
+main p {
+    color:brown; 
+    font-weight: 700; 
+}
+
+footer{
+    background-color: blue;
+}
+
+footer { 
+    color: white; 
+}
+
+img{ 
+    height: 50vh; 
+    width: 40vw
+}
