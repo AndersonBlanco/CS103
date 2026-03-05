@@ -106,7 +106,7 @@ img{
         text-align:center; 
         padding: 0% 3%; 
         display: flex;
-        flex-direction: inline;
+        flex-direction:row;
 
     }
 
