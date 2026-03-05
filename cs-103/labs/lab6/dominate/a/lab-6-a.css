@@ -41,7 +41,6 @@ nav li{
     border: 1px solid white; 
     text-align: left;
     margin-bottom: 4vh;
-
 }
 main{
      background-color:blueviolet; 
@@ -109,6 +108,14 @@ img{
         flex-direction:row;
 
     }
+
+    nav li{ 
+    display: inline;
+    margin: 2%; 
+    border: 1px solid white; 
+    text-align: left;
+    margin-bottom: 4vh;
+}
 
     main{
         display: flex;
