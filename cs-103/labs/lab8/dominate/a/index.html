@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+</head>
+<body>
+    <header>
+        <h1>Calculator</h1>
+    </header>
+
+    <main>
+        <div>
+            <input type = "text" id = "number1"/>
+            <input type = "text" id = "number2"/>
+
+            <button onclick="addition()">+</button>
+
+            <button onclick = "sub()">-</button>
+            <button onclick = "divide()">/</button>
+            <button onclick ="multiply()">*</button>
+            </div>
+
+            <h1 id = "output"></h1>
+    </main>
+    <footer>
+        <p>Footer</p>
+    </footer>
+
+    <script>
+        const number1 = document.getElementById("number1");
+        const number2 = document.getElementById("number2");
+        const output = document.getElementById("output");
+
+        function addition(){
+           let val1 = Number(number1.value);
+            let val2 =  Number(number2.value);
+               console.log(val1, val2)
+            output.innerHTML = String(val1 + val2);
+
+        }
+
+     function sub(){
+            let val1 = Number(number1.value);
+            let val2 =  Number(number2.value);
+
+               console.log(val1, val2)
+            output.innerHTML = String(val1 - val2)
+
+
+        }
+
+
+
+        function divide(){
+            let val1 = Number(number1.value);
+            let val2 =  Number(number2.value);
+               console.log(val1, val2)
+            output.innerHTML = String(val1 / val2)
+
+        }
+
+
+        function multiply(){
+            let val1 = Number(number1.value);
+            let val2 =  Number(number2.value);
+            console.log(val1, val2)
+            output.innerHTML = String(val1 * val2)
+
+        }
+
+    </script>
+</body>
+</html>
