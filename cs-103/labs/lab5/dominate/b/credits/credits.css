@@ -1,0 +1,86 @@
+ul{
+    display:inline; 
+}
+
+body{
+    align-items: center; 
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #C00707; 
+    color: white; 
+
+}
+
+ul li a{
+    display:inline; 
+    padding: 10px 20px;
+    background-color: #FFB33F; 
+}
+
+ul{
+    /*using display: flex allows us to enforce a flex context on this element, allowing for preicse layout manipulation. We want this to enforce order of layouts*/
+    display: flex; 
+    flex-direction: row;
+    column-gap: 20px;
+    
+    /*this proeprty alllows us to determine the styling of the list (ie use bullets, 
+    dashes, etc for referencing and listing items). Setting it to none eliminates this 
+    display characteristic (ie no referential grpahic per item) */
+    list-style: none;
+    justify-content: center;
+    padding-block:20px; 
+}
+
+ 
+p{
+    margin-inline: 500px;
+
+}
+
+img{
+    height: 200px; 
+    width: 200px; 
+}
+
+ nav,main, footer{ 
+    background-color: #FF4400;
+    width: 100%; 
+}
+
+a{ 
+    color: #134E8E;
+
+    /*text deocration allows us to target any additional visual charcateristics of a text element (underline, strike through, etc) */
+    text-decoration: none;
+}
+  
+
+main{
+    height: auto; 
+    padding-block: 20px;
+    margin-block: 10px; 
+}
+footer{ 
+    /*setting the position to fixed allows us to position this element relative to the viewport, 
+    mantianing it at the bottokm of the screen as desired for a footer | using bottom: # allows us to 'move' this element to this position relative to the bottom of the viewport*/
+    position: fixed; 
+    bottom: 0; 
+}
+
+h4{
+    font-size: 20px; 
+}
+
+.creds{
+    flex-direction: column;
+    text-align: le;
+}
+
+.creds a{
+    background-color: transparent;
+    padding: 0px; 
+    text-decoration: underline;
+
+}
