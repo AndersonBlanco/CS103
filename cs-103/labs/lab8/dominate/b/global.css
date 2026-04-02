@@ -52,7 +52,7 @@ ul li{
 
     .container, #navMainWrapper{
         flex-direction: row;
-        align-items: flex-start;
+
         gap: 10px; 
 
     }
@@ -97,6 +97,8 @@ ul li{
     }
 
     main{
+        /* sets the background to exactly what it implies: transparent. 
+        or better yet, synonumous with rgba(#,#,#,0) */
         background-color: transparent;
     }
 
