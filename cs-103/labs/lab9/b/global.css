@@ -1,0 +1,133 @@
+html, body{
+    align-items: center; 
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #C00707; 
+    color: white; 
+    padding: 0px; 
+
+}
+
+
+.container, #navMainWrapper{
+ align-items: center; 
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding: 0px; 
+
+
+    width: 100%; 
+}
+
+
+#navMainWrapper{ 
+background-color: blue; 
+width: 100vw;
+}
+
+ .innerContainer1, .innerContainer2{
+     align-items: center; 
+    justify-content: center;
+        flex-direction: column;
+        display: flex;
+         margin: 0px; 
+    width: 100vw;
+
+    }
+  
+ul li{
+    display:inline; 
+    padding: 10px 20px;
+    background-color: #FFB33F; 
+
+}
+
+
+
+
+@media (max-width: 900px) {
+
+    .container, #navMainWrapper{
+        flex-direction: row;
+
+        gap: 10px; 
+
+    }
+
+    nav ul{
+        flex-direction: column;
+        gap: 10vh; 
+         height: 100%;
+         padding: 0px; 
+
+    }
+ 
+    nav{
+
+                justify-content: center;
+                align-items: center;
+                display: flex;
+    }
+
+    header{ 
+       
+
+    }
+
+    .innerContainer1, .innerContainer2{
+        
+         height: 100%;
+         width: 100%; 
+    
+
+    }
+
+    .innerContainer1{
+        width: 30%; 
+    }
+
+    .innerContainer2{
+        
+
+        padding: 0px;
+
+    }
+
+    main{
+        /* sets the background to exactly what it implies: transparent. 
+        or better yet, synonumous with rgba(#,#,#,0) */
+        background-color: transparent;
+    }
+
+    
+    main{
+        height: 75vh;
+        max-width: 70%; 
+    }
+  
+    footer{
+        position: fixed; 
+        width: 100vw;
+        display: flex; 
+        justify-content: center;
+
+    }
+    header{
+        background-color: rgb(255, 108, 23); 
+        width: 100%; 
+        text-align: left;
+
+    }
+    header h1{
+        padding-inline: 10px; 
+    }
+
+
+}
+
+
+
+ 
